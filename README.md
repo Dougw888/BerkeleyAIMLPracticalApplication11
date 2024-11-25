@@ -2,7 +2,7 @@
 Repository for practical application data problem for module 11 in the Berkeley Certificate in AI and ML<br>
 
 ### Description of Files in the Repo:<br>
--'data.csv': this file contains the dataset used for this project<br>
+-'[data.csv](https://github.com/Dougw888/BerkeleyAIMLPracticalApplication11/blob/main/data/vehicles.csv)': this file contains the dataset used for this project<br>
 -'[prompt_II.ipynb](https://github.com/Dougw888/BerkeleyAIMLPracticalApplication11/blob/main/prompt_II.ipynb)': this file contains the code for this project
 
 ### Description of the project:<br>
